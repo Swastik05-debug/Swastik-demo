@@ -1,2 +1,3 @@
 # Swastik-demo
-Author - Swastik Bhanot
+Author - Swastik (b.tech)
+
